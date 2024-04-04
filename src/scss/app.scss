@@ -1,0 +1,17 @@
+@import "base/normalize";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+@import "base/variables";
+@import "base/mixins";
+@import "base/globales";
+@import "base/utilidades";
+
+@import 'layout/csv';
+@import 'layout/eleccion';
+@import 'layout/inicio';
+@import 'layout/inicioPanel';
+@import 'layout/metrics';
+@import 'layout/ml';
+@import 'layout/panel';
+
+

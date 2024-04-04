@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout/eleccion.scss","layout/eleccion.css"],"names":[],"mappings":"AAAA,qBACI,oBAAA,CAEA,WAAA,CADA,UCEJ","file":"eleccion.css","sourcesContent":[".contenedor_eleccion{\r\n    background-color: red;\r\n    width: 100%;\r\n    height: 100%;\r\n}",".contenedor_eleccion {\n  background-color: red;\n  width: 100%;\n  height: 100%;\n}"]}

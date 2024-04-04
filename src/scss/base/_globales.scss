@@ -1,0 +1,54 @@
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+    height: 100%;
+}
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+
+body{
+    font-family: 'Helvetica';
+    font-size: 1.6rem;
+    height: 100%;
+    
+    
+    
+
+    &.fijar-body {
+        overflow: hidden;
+    }
+}
+
+p{
+    font-size: 2rem;
+    color: black;
+    margin-left: 2rem;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+img{
+    max-width: 100%;
+}
+
+h1,h2,h3{
+    margin: 0;
+    margin-left: 2rem;
+}
+
+h1{
+    font-size: 10rem;
+}
+h2{
+    font-size: 2.6rem;
+}
+h3{
+    font-size: 1.2rem;
+    
+}
+

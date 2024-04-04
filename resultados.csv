@@ -1,0 +1,14 @@
+Característica,Coeficiente
+restecg,1.14
+cp,0.52
+ca,0.46
+oldpeak,0.36
+slope,0.36
+sex,0.34
+age,0.16
+trestbps,0.13
+fbs,0.13
+thal,0.11
+thalach,0.06
+exang,0.03
+chol,0.0
